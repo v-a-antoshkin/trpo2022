@@ -47,3 +47,9 @@ _Параграф 3_
 ### Картинка
 
 ![MarkDown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Изображение")
+
+### Таблица
+
+|Столбец 1|Столбец 2|
+|1|2|
+|33333|4|
